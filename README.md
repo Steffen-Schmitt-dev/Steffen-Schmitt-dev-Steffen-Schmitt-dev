@@ -1,45 +1,35 @@
-# Hi, I'm Steffen 👋
+# Hi, I'm Steffen
 
-Aspiring Software Developer with a focus on building modern web and database applications using C# and .NET technologies.
+I am currently training as a Software Developer (Fachinformatiker für Anwendungsentwicklung) with a focus on building web and database applications using C# and .NET technologies.
 
----
+## About Me
+- Focus on web and database development
+- Experience with C#, ASP.NET Core MVC, Entity Framework Core and SQL Server
+- Based in Germany
+- Open to internship opportunities
 
-## 🚀 About Me
-- 🎓 Currently training as a Software Developer (Fachinformatiker für Anwendungsentwicklung)
-- 💻 Focus: Web & database development
-- 🧠 Technologies: C#, ASP.NET Core MVC, Entity Framework Core, SQL Server
-- 📍 Based in Germany
-- 🔎 Open to internship opportunities
+## Technologies
+- C#
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQL Server
+- HTML, CSS, Bootstrap
+- Git, Visual Studio
 
----
+## Projects
 
-## 🛠 Tech Stack
-- **Languages:** C#
-- **Frameworks:** ASP.NET Core MVC
-- **Database:** SQL Server, Entity Framework Core
-- **Frontend:** HTML, CSS, Bootstrap
-- **Tools:** Visual Studio, Git
-
----
-
-## 📌 Projects
-
-### 📚 Library Management System
+### Library Management System
 Web application for managing books, copies and lending processes.  
-**Tech:** ASP.NET Core MVC, Entity Framework Core, SQL Server  
+Built with ASP.NET Core MVC, Entity Framework Core and SQL Server.
 
----
+### Flight and Cargo Management
+Full-stack application for organizing flights and cargo operations, including CRUD functionality and reporting features.
 
-### ✈️ Flight & Cargo Management
-Full-stack application for organizing flights and cargo operations.  
-Includes CRUD functionality and reporting features.  
-**Tech:** C#, ASP.NET Core, SQL Server  
+### Patient Appointment Management
+Application for managing patient and doctor appointments with dynamic scheduling logic and database integration.
 
----
-
-### 🏥 Patient Appointment Management
-Application for coordinating patient and doctor appointments with dynamic scheduling logic.  
-**Tech:** ASP.NET Core MVC, EF Core, SQL Server  
+## Contact
+Email: steffen_schmitt@yahoo.de
 
 ---
 

@@ -30,9 +30,3 @@ Application for managing patient and doctor appointments with dynamic scheduling
 
 ## Contact
 Email: steffen_schmitt@yahoo.de
-
----
-
-## 📫 Contact
-- Email: steffen_schmitt@yahoo.de
-- GitHub: https://github.com/Steffen-Schmitt-dev

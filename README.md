@@ -1,14 +1,21 @@
-# Hi, I'm Steffen
+# Hi, ich bin Steffen
 
-I am currently training as a Software Developer (Fachinformatiker für Anwendungsentwicklung) with a focus on building web and database applications using C# and .NET technologies.
+Ich mache aktuell eine Umschulung zum Fachinformatiker für Anwendungsentwicklung.  
+Mein Schwerpunkt liegt auf Webanwendungen und datenbankgestützten Anwendungen mit C# und .NET.
 
-## About Me
-- Focus on web and database development
-- Experience with C#, ASP.NET Core MVC, Entity Framework Core and SQL Server
-- Based in Germany
-- Open to internship opportunities
+---
 
-## Technologies
+## Über mich
+
+- Schwerpunkt: Web- und Datenbankentwicklung  
+- Erfahrung mit C#, ASP.NET Core MVC, Entity Framework Core und SQL Server  
+- Wohnhaft in Deutschland  
+- Interesse an Praktika im Bereich Softwareentwicklung  
+
+---
+
+## Technologien
+
 - C#
 - ASP.NET Core MVC
 - Entity Framework Core
@@ -16,17 +23,34 @@ I am currently training as a Software Developer (Fachinformatiker für Anwendung
 - HTML, CSS, Bootstrap
 - Git, Visual Studio
 
-## Projects
+---
 
-### Library Management System
-Web application for managing books, copies and lending processes.  
-Built with ASP.NET Core MVC, Entity Framework Core and SQL Server.
+## Projekte
+
+### Hochwärts Bibliothek
+Webanwendung zur Verwaltung von Büchern und Exemplaren mit Ausleihe und Rückgabe.
+
+Die Anwendung bildet typische Bibliotheksprozesse ab:
+- Verwaltung von Büchern und Exemplaren  
+- Ausleih- und Rückgabesystem  
+- automatische Mahnungen bei überfälligen Ausleihen  
+- Statuswechsel von Exemplaren (z. B. verfügbar, verliehen, verschollen, verkaufbar)  
+- Zustandsprüfung nach Rückgabe  
+
+Technisch umgesetzt mit ASP.NET Core MVC, Entity Framework Core und SQL Server (LocalDB).
+
+---
 
 ### Flight and Cargo Management
-Full-stack application for organizing flights and cargo operations, including CRUD functionality and reporting features.
+Anwendung zur Verwaltung von Flügen und Fracht mit CRUD-Funktionalität und einfachen Auswertungen.
+
+---
 
 ### Patient Appointment Management
-Application for managing patient and doctor appointments with dynamic scheduling logic and database integration.
+System zur Verwaltung von Terminen zwischen Patienten und Ärzten mit Planungslogik und Datenbankanbindung.
 
-## Contact
-Email: steffen_schmitt@yahoo.de
+---
+
+## Kontakt
+
+E-Mail: steffen_schmitt@yahoo.de

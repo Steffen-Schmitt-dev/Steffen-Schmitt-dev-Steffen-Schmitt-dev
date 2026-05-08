@@ -54,7 +54,8 @@ Funktionen:
 
 - Verwaltung von Flugdaten und Frachtaufträgen  
 - CRUD-Operationen für alle Entitäten  
-- einfache Übersichten und Auswertungen  
+- einfache Übersichten und Auswertungen
+- verteilen von Frachten auf mehrere Flüge
 
 Technisch umgesetzt mit ASP.NET Core MVC und Entity Framework Core.
 
@@ -69,7 +70,8 @@ Funktionen:
 - Terminplanung zwischen Patienten und Ärzten  
 - Statusverwaltung (offen / wahrgenommen)  
 - Hervorhebung des nächsten anstehenden Termins  
-- strukturierte Terminübersicht  
+- strukturierte Terminübersicht
+- Loginfunktion
 
 Technisch umgesetzt mit ASP.NET Core MVC und Entity Framework Core.
 

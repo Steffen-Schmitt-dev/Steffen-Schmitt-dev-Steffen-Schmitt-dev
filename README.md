@@ -1,56 +1,80 @@
-# Hi, ich bin Steffen
 
-Ich mache aktuell eine Umschulung zum Fachinformatiker für Anwendungsentwicklung.  
-Mein Schwerpunkt liegt auf Webanwendungen und datenbankgestützten Anwendungen mit C# und .NET.
+# Über mich
 
----
+Hi, ich bin Steffen.  
+Ich mache aktuell eine Umschulung zum Fachinformatiker für Anwendungsentwicklung mit dem Schwerpunkt auf Web- und datenbankgestützten Anwendungen.
 
-## Über mich
-
-- Schwerpunkt: Web- und Datenbankentwicklung  
-- Erfahrung mit C#, ASP.NET Core MVC, Entity Framework Core und SQL Server  
-- Wohnhaft in Deutschland  
-- Interesse an Praktika im Bereich Softwareentwicklung  
+Mein Fokus liegt auf der Entwicklung von Webanwendungen mit C# und dem .NET-Framework sowie der Arbeit mit relationalen Datenbanken.
 
 ---
 
-## Technologien
+# Schwerpunkte
 
-- C#
-- ASP.NET Core MVC
-- Entity Framework Core
-- SQL Server
-- HTML, CSS, Bootstrap
-- Git, Visual Studio
+- Webentwicklung mit ASP.NET Core MVC  
+- Datenbankanwendungen mit Entity Framework Core und SQL Server  
+- Entwicklung von CRUD-basierten Business-Anwendungen  
+- Strukturierte Softwareentwicklung mit C#  
 
 ---
 
-## Projekte
+# Technologien
 
-### Hochwärts Bibliothek
-Webanwendung zur Verwaltung von Büchern und Exemplaren mit Ausleihe und Rückgabe.
+- C#  
+- ASP.NET Core MVC  
+- Entity Framework Core  
+- SQL Server / LocalDB  
+- HTML, CSS, Bootstrap  
+- Git, Visual Studio  
+
+---
+
+# Projekte (Auswahl)
+
+## Bibliotheksverwaltung
+
+Webanwendung zur Verwaltung einer Bibliothek mit Büchern, Exemplaren und Ausleihvorgängen.
 
 Die Anwendung bildet typische Bibliotheksprozesse ab:
+
 - Verwaltung von Büchern und Exemplaren  
-- Ausleih- und Rückgabesystem  
-- automatische Mahnungen bei überfälligen Ausleihen  
-- Statuswechsel von Exemplaren (z. B. verfügbar, verliehen, verschollen, verkaufbar)  
+- Ausleihe- und Rückgabesystem  
+- Statusverwaltung (verfügbar, ausgeliehen, verschollen, verkaufbar)  
+- automatische Überwachung überfälliger Ausleihen  
 - Zustandsprüfung nach Rückgabe  
 
 Technisch umgesetzt mit ASP.NET Core MVC, Entity Framework Core und SQL Server (LocalDB).
 
 ---
 
-### Flight and Cargo Management
-Anwendung zur Verwaltung von Flügen und Fracht mit CRUD-Funktionalität und einfachen Auswertungen.
+## Flug- und Frachtverwaltung
+
+Webanwendung zur Verwaltung von Flügen und Frachtaufträgen.
+
+Funktionen:
+
+- Verwaltung von Flugdaten und Frachtaufträgen  
+- CRUD-Operationen für alle Entitäten  
+- einfache Übersichten und Auswertungen  
+
+Technisch umgesetzt mit ASP.NET Core MVC und Entity Framework Core.
 
 ---
 
-### Patient Appointment Management
-System zur Verwaltung von Terminen zwischen Patienten und Ärzten mit Planungslogik und Datenbankanbindung.
+## Patienten-Terminverwaltung
+
+System zur Verwaltung von Terminen zwischen Patienten und Ärzten.
+
+Funktionen:
+
+- Terminplanung zwischen Patienten und Ärzten  
+- Statusverwaltung (offen / wahrgenommen)  
+- Hervorhebung des nächsten anstehenden Termins  
+- strukturierte Terminübersicht  
+
+Technisch umgesetzt mit ASP.NET Core MVC und Entity Framework Core.
 
 ---
 
-## Kontakt
+# Kontakt
 
 E-Mail: steffen_schmitt@yahoo.de
